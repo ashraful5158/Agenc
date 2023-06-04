@@ -1,0 +1,338 @@
+@media (min-width: 320px)and (max-width:575px) {
+  .navbar-toggler{
+    background: white;
+  }
+  nav .navbar-nav{
+    background-color: black;
+    text-align: center;
+    border: 1px solid #6A4DF4;
+    margin-top: 10px !important;
+  }
+  nav .navbar-nav .nav-item{
+    border-bottom: 1px solid #6A4DF4;
+  }
+  nav .navbar-nav li:last-child{
+    border-bottom: none;
+  }
+  nav .contact-btn{
+    margin-top: 20px;
+  }
+  #banner .overlay .flex-d .heading h1 {
+    font-size: 50px;
+    width: auto;
+    
+  }
+  #banner .overlay .flex-d .info p{
+    width: auto;
+  }
+  #banner .overlay{
+    padding-top: 177px;
+    padding-bottom: 106px;
+  }
+  .about .success h2 {
+    font-family: inter;
+    font-weight: 600;
+    font-size: 35px;
+    color: #151515;
+    width: 263px;
+    margin-left: 50px;
+  }
+  .about .number .flex-d {
+    flex-direction: column;
+    text-align: center;
+    margin-top: 26px;
+    background-color:#E0FFF9;
+  }
+.about .success h3{
+  margin-top: 25px;
+}
+.about{
+  margin-top: 25px;
+}
+#services .title h2{
+  margin-top: 308px;
+  }
+#services .title p{
+  width: auto;
+  }
+  .about .flex-d .custom-margin{
+    margin-bottom: 25px;
+  }
+  #recent-wrk .title h2 {
+    padding-top: 80px;
+  }
+  #services {
+    margin-bottom: 48px;
+  }
+  #recent-wrk .title p{
+    width: auto;
+  }
+  #recent-wrk .design .custom-card p{
+    width: auto;
+  }
+  #recent-wrk {
+    padding-bottom: 70px;
+  }
+  #agenc .title h2 {
+   width: auto;
+    padding-top: 70px;
+  }
+  #agenc .title p {
+   width: auto;
+    padding-top: 20px;
+  }
+  #agenc .ideas {
+    text-align: center;
+  }
+  #agenc .ideas p{
+    width: auto;
+  }
+  #reviews .title h2 {
+    margin-top: 70px;
+  }
+  #reviews .title p {
+   width: auto;
+   margin-bottom: 70px;
+  }
+  #reviews .clnt-review .item h4 {
+    width: auto;
+  }
+  #reviews {
+    margin-bottom: 85px;
+  }
+  #form .form-start .content h3 {
+    width: 355px;
+    font-weight: 700;
+    font-size: 40px;
+   
+  }
+  #form {
+    padding: 84px 0px;
+  }
+  #form .form-start .content p {
+    width: auto;
+    }
+    #form .form-start .form-details {
+      width: auto;
+      margin-top: 60px;
+    }
+    .footer {
+      margin-top: 70px;
+     
+    }
+    .footer p {
+      width: auto;
+    }
+    nav ul li {
+      width: 100%;
+    }
+    .custom_flex{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 25px;
+      }
+      #agenc .title p {
+        margin-bottom: 85px;
+      }
+      .paragraph2{
+        margin-bottom: 88px;
+      }
+}
+  /* ========================================================================================================================================extra small end */
+
+@media (min-width: 576px)and (max-width:767px) {
+  .navbar-toggler{
+    background: white;
+  }
+  nav .navbar-nav{
+    background-color: black;
+    text-align: center;
+    border: 1px solid #6A4DF4;
+    margin-top: 10px !important;
+  }
+  nav .navbar-nav .nav-item{
+    border-bottom: 1px solid #6A4DF4;
+  }
+  nav .navbar-nav li:last-child{
+    border-bottom: none;
+  }
+  nav .contact-btn{
+    margin-top: 20px;
+  }
+  #banner .overlay .flex-d .heading h1 {
+    font-size: 50px;
+    width: auto;
+    
+  }
+  #banner .overlay .flex-d .info p{
+    width: auto;
+  }
+  #banner .overlay{
+    padding-top: 177px;
+    padding-bottom: 106px;
+  }
+  .about{
+    margin-top: 70px;
+  }
+  .about .success h3{
+    margin-top: 20px;
+  }
+  .about .number .flex-d {
+    
+    text-align: center;
+    margin-top: 26px;
+    background-color:#E0FFF9;
+  }
+  .about .number .flex-d h2{
+    margin-left: 49px;
+    font-size: 40px;
+    margin-top: -40px;
+    margin-bottom: 7px;
+  }
+  
+  .about .number .flex-d p{
+    margin-left: 36px;
+  }
+  .about{
+    
+      margin-top: 100px;
+      margin-bottom: 100px;
+    }
+    #services .title p{
+      width: auto;
+    }
+    nav ul li {
+      width: 100%;
+    }
+    nav .contact-btn {
+      margin-top: 30px;
+    }
+    .title h2 {
+      width: 350px;
+      margin: auto;
+     
+    }
+    #services .title p {
+    margin-top: 20px;
+    }
+    #recent-wrk .design img{
+      width: 100%;
+
+      }
+    #agenc .ideas .custom_flex{
+      display: flex;
+      justify-content: center;
+      margin-bottom: 18px;
+    }
+    #agenc .ideas p{
+      width: 350px;
+      margin: 0 auto;
+      text-align: center;
+    }
+    #agenc .ideas h3{
+     text-align: center;
+     margin-bottom: 10px;
+    }
+    #agenc .ideas .paragraph2{
+      margin-bottom: 88px;
+    }
+    #reviews .title p {
+      margin-bottom: 82px;
+      width: auto;
+      margin-top: 20px;
+    }
+    #reviews {
+      margin-bottom: 150px;
+    }
+    #form .form-start .content .para2{
+     margin: 40px 0px 87px 0px;
+    }
+    #form .form-start .content h3 {
+      margin-bottom: 50px;
+    }
+    #form {
+      padding: 120px 0px;
+    }
+    .footer {
+      margin-top: 110px;
+      
+    }
+    .footer p {
+     margin-bottom: 30px;
+      
+    }
+
+}
+/* ========================================================================================================================================small end */
+
+@media (min-width: 768px)and (max-width:991px) {
+  .navbar-toggler{
+    background: white;
+  }
+  nav .navbar-nav{
+    background-color: black;
+    text-align: center;
+    border: 1px solid #6A4DF4;
+    margin-top: 10px !important;
+  }
+  nav .navbar-nav .nav-item{
+    border-bottom: 1px solid #6A4DF4;
+  }
+  nav .navbar-nav li:last-child{
+    border-bottom: none;
+  }
+  nav .contact-btn{
+    margin-top: 20px;
+  }
+  #banner .overlay .flex-d .heading h1 {
+    font-size: 50px;
+    width: auto;
+    
+  }
+  #banner .overlay .flex-d .info p{
+    width: auto;
+  }
+  #banner .overlay{
+    padding-top: 177px;
+    padding-bottom: 106px;
+  }
+  .about{
+    margin-top: 150px;
+  }
+  .about .success h2{
+    font-family: inter;
+    font-weight: 600;
+    font-size: 35px;
+    color: #151515;
+    width: 210px;
+    margin-left: 50px;}
+    .about .number .flex-d h2 {
+      font-family: inter;
+      font-weight: 700;
+      font-size: 38px;
+      color: #151515;
+      margin-bottom: 20px;
+    }
+    #recent-wrk .design img{
+      width: 100%;
+
+      }
+}
+/* ======================================================================================================================================== md end */
+@media (min-width: 992px)and (max-width:1199px) {
+  
+  nav ul li{
+    margin-right: 45px;
+  }
+  /* ========================================================================================================================================large end */
+}
+/* ========================================================================================================================================extra large end */
+@media (min-width: 1200px)and (max-width:1399px) {
+  
+  
+}
+
+@media (min-width: 1400px) {
+  
+  
+}
